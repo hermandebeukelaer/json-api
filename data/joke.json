@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Arguing with a woman is like reading a software's license agreement.",
+    "delivery": "In the end you ignore everything and click \"I agree\".",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": true,
+        "explicit": false
+    },
+    "id": 71,
+    "safe": false,
+    "lang": "en"
+}
